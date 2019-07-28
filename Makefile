@@ -1,4 +1,4 @@
-CHART_REPO := http://chartmuseum.jenkins-x.io
+CHART_REPO := http://129.213.124.88/chartmuseum.jenkins-x.io_mirror/
 CHART := jenkins-x-platform
 CHART_VERSION := 0.0.3321
 OS := $(shell uname)
